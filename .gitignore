@@ -1,0 +1,4 @@
+libsync/__pycache__
+.env
+.cache
+.venv
